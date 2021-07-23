@@ -1,1 +1,1 @@
-# Surface Roughness Prediction of additively manufactured parts
+# Surface Roughness Prediction of Additively Manufactured parts
